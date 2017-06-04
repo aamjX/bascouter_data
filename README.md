@@ -62,6 +62,7 @@ Rendimiento_jugadores.csv
 -	Minutos_jugados: Número de minutos que un jugador ha jugado en total.
 -	Goles_en_contra: Goles que un portero ha recibido.
 -	Partidos_sin_gol_en_Contra: Número de partidos que un portero no ha recibido ningún gol.
+
 Historial_fichajes_jugadores.csv
 -	Id: Identificador del historial asociado a un jugador.
 -	Jugador: Identificador del jugador al que pertenece el historial.
